@@ -13,5 +13,9 @@ Outputs:
 lamp-group-address = "vp-target-nlb-group"
 pic-url = "https://storage.yandexcloud.net/paint/goa.jpg"
 ```
-![key]()
-![]setting key]()
+![sert](https://github.com/EVolgina/ycloud3/blob/main/cert.png)
+![setting key](https://github.com/EVolgina/ycloud3/blob/main/setting%20key.png)
+![key](https://github.com/EVolgina/ycloud3/blob/main/key.png)
+![zone](https://github.com/EVolgina/ycloud3/blob/main/zone2.png)
+![resorse](https://github.com/EVolgina/ycloud3/blob/main/ресурсы.png)
+![goa](https://github.com/EVolgina/ycloud3/blob/main/goa.png)
